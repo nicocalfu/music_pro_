@@ -3,7 +3,7 @@
 Este proyecto está diseñado para proporcionar a Music Pro un sistema integral que incluye:
 
 1. Inicio de sesión y gestión de usuarios.
-2. Creación de productos, con categorización y control de inventario.
+2. Creación de productos y control de inventario.
 3. Funcionalidad de carrito de compras.
 4. Capacidad para realizar transacciones de compra en línea utilizando la biblioteca Pykhipu.
 
