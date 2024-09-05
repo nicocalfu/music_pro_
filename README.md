@@ -1,6 +1,6 @@
 # music_pro_
 
-Este proyecto está diseñado para proporcionar a Music Pro un sistema integral que incluye:
+Este proyecto está diseñado para proporcionar a Music Pro un sistema que incluye:
 
 1. Inicio de sesión y gestión de usuarios.
 2. Creación de productos y control de inventario.
